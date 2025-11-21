@@ -22,8 +22,8 @@
     color: cadetblue;
 }
 
-div .p-4 h4 ol {
-    color: rgb(251, 255, 0);
+.list-unstyled.mb-0 li a {
+    color: rgb(0, 225, 255);
 }
 
 .blog-post:nth-of-type(2) p:first-of-type a {
