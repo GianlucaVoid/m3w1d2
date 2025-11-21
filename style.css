@@ -1,0 +1,50 @@
+.jumbotron h1 {
+    background-color: yellow;
+}
+
+.nav span {
+    background-color: blue;
+}
+
+.jumbotron a {
+    background-color: green;
+}
+
+.blog-post:first-of-type {
+    background-color: violet;
+}
+
+.blog-post:first-of-type hr {
+    background-color: red;
+}
+
+.nav span:nth-of-type(even) {
+    color: cadetblue;
+}
+
+div .p-4 h4 ol {
+    color: rgb(251, 255, 0);
+}
+
+.blog-post:nth-of-type(2) p:first-of-type a {
+    color: red;
+}
+
+.blog-post:nth-of-type(3) li:nth-of-type(2) {
+    color: aquamarine;
+}
+
+.float-right {
+    background-color: red;
+    color: yellow;
+}
+
+.btn.btn-outline-secondary.disabled {
+    background-color: blue;
+    color: red;
+}
+
+footer a:nth-of-type(2) {
+    color: darkblue;
+    background-color: yellow;
+}
